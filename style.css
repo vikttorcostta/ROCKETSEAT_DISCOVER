@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-image: url(assets/bg-desktop.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+body * {
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+#container{
+    width: 360px;
+    height: 712px;
+    border: 1px solid white;
+    margin: auto;
+}
+
+#profile{
+    text-align: center;
+}
+
+#profile img {
+    width: 88px;
+
+}
+
+#profile p {
+    font-weight: 500;
+    line-height: 24px;
+}
