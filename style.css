@@ -22,7 +22,8 @@ body * {
 #container{
 
     width: 360px;
-    margin: 56px auto 0px;
+    margin: 22px auto 0px;
+    padding: 14px 14px 60px 14px;
 }
 
 #profile{
