@@ -64,7 +64,7 @@ ul li a {
 
 ul li :hover{
     border: 1px solid rgb(51, 216, 59);
-    color: rgb(62, 214, 169);
-    box-shadow: 0px 0px 35px rgb(0, 255, 13);
-    color: rgb(120, 218, 101);
+    color: rgb(51, 216, 59);
+    box-shadow: 0px 0px 35px rgb(51, 216, 59);
+    color: rgb(51, 216, 59);
 }
